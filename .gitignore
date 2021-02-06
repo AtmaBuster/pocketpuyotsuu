@@ -1,0 +1,23 @@
+# compiled objects
+*.o
+
+# compiled graphics
+*.1bpp
+*.2bpp
+
+# roms
+*.gb
+
+# rgbds stuff
+*.map
+*.sym
+
+# emulator stuff
+*.sgm
+*.sav
+*.sn*
+*.sa*
+*.sg1
+
+# swap files
+.*.swp
